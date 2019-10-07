@@ -1,2 +1,4 @@
 # Add your variables here
-first_number = first_number.Integer 
+def first_number
+  first_number >= 0 
+end
